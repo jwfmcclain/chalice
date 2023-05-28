@@ -1,0 +1,3 @@
+[submodule "statemachines"]
+	path = statemachines
+	url = git@github.com:jwfmcclain/statemachines.git
